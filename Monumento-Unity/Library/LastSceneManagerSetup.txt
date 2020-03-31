@@ -1,0 +1,16 @@
+sceneSetups:
+- path: Assets/RUIS/Scenes/AugmentingonPlane.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/RUIS/Scenes/more.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/RUIS/Scenes/tracking.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/RUIS/Scenes/UI_MENU.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/RUIS/Scenes/UI_Scene.unity
+  isLoaded: 1
+  isActive: 0
