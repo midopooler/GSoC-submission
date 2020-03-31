@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="tajmahal" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="tajmahals_assembly" assemblyId="cec1a6e07bdd4860b79224dac4356868">
+<Part name="tajmahal" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="5.48845 185.11 808.159" rotation="AD: 0.9993930922945407 0.04994887160422298 -0.9750045360819309 184.197" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
