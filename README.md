@@ -7,7 +7,7 @@ Watch the demonstration video at https://www.youtube.com/watch?v=qxOBKhha4wY&fea
 
 The Gitlab Merge Request is here. https://gitlab.com/aossie/monumento/-/merge_requests/7
 
-##Instructions to use the App
+## Instructions to use the App
 1. Open the app
 2. Dont sign in/up. Click continue without signing in.
 3. Bypass disclaimer
@@ -23,7 +23,7 @@ The Gitlab Merge Request is here. https://gitlab.com/aossie/monumento/-/merge_re
 13. You can pinch to zoom, twist to rotate, and drag to translate the object.
 14. Also, you can also capture the pictures and record the videos and save to your gallery from inside the app.
 
-##Some parts of the app are hard coded as of now. (for demonstration purpose)
+## Some parts of the app are hard coded as of now. (for demonstration purpose)
 1. Login-Signup. 
    One can enter details but that's not currently integrated with the firebase. So, I've added a continue to login feature there.
 2. More page And the account page are currently hard coded.
